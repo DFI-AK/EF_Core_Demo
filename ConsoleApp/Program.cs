@@ -1,7 +1,6 @@
 ﻿using ConsoleApp.Models;
 using Domain.Entities;
 using Domain.Persistence.Data;
-using Microsoft.EntityFrameworkCore;
 
 namespace ConsoleApp
 {
